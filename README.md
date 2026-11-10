@@ -66,13 +66,13 @@ Analiz belgeleri `docs` klasöründe bulunmaktadır.
 
 
 
+
 Her haftanın geliştirme süreci video ile
 
 anlatılacak ve Google Drive üzerinden paylaşılacaktır.
 
 
 
-Video bağlantıları hazırlandıkça eklenecektir.
-
+- **1. Hafta:** [Proje Analizi ve Planlama - Video](https://drive.google.com/file/d/1zV8Li6RIh7r16SfQvDXrx6EUtd642gek/view?usp=drive_link)
 
 
