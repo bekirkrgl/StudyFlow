@@ -75,4 +75,4 @@ anlatılacak ve Google Drive üzerinden paylaşılacaktır.
 
 - **1. Hafta:** [Proje Analizi ve Planlama - Video](https://drive.google.com/file/d/1zV8Li6RIh7r16SfQvDXrx6EUtd642gek/view?usp=drive_link)
 
-
+- **2. Hafta:** [Veritabanı Tasarımı ve Backend Başlangıcı - Video](https://drive.google.com/file/d/1RMDcEYySwu7N-NEU8aeKU9eCZXTy2Hm5/view?usp=drive_link)
