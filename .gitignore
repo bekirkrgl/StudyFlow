@@ -1,0 +1,13 @@
+
+# .NET build files
+**/bin/
+**/obj/
+
+# IDE files
+.vs/
+.idea/
+*.user
+*.suo
+
+# Local configuration
+**/appsettings.Local.json
